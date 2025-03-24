@@ -1,6 +1,7 @@
 # Active Directory Lab
 
-<img width="817" alt="Screenshot 2025-03-23 at 6 40 17 PM" src="https://github.com/user-attachments/assets/dec6ac99-9871-481b-8eec-0f2d17949c61" />
+<img width="817" alt="Screenshot 2025-03-24 at 1 14 53 PM" src="https://github.com/user-attachments/assets/07fb43be-4ce7-4bf1-8de8-52b85d6a08c9" />
+
 
 ## 🧾 Introduction / Summary
 
